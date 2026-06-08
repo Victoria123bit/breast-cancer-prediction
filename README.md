@@ -71,7 +71,7 @@ Logistic Regression achieved:
 
 ### Correlation Heatmap
 
-![Heatmap](Breast Cancer Prediction/images/correlation-heatmap.png)
+![Heatmap](images/correlation-heatmap.PNG)
 
 ### Confusion Matrix
 
