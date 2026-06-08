@@ -75,11 +75,11 @@ Logistic Regression achieved:
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.PNG)
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/model_comparison.PNG)
 
 ## 🚀 Future Improvements
 
