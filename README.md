@@ -71,7 +71,7 @@ Logistic Regression achieved:
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation-heatmap.PNG)
+![Heatmap](images/correlation-heatmap.png)
 
 ### Confusion Matrix
 
